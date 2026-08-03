@@ -1,4 +1,4 @@
-/* 214612285 Fatima Swelem */
+/*  Fatima Swelem */
 
     .globl pstrlen
     .globl swapCase
